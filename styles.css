@@ -1,0 +1,28 @@
+
+.form-container {
+    border: 1px solid #565656; /* Light grey border */
+    padding: 20px;
+    border-radius: 5px; /* Optional: Rounded corners */
+}
+
+.form-title-container {
+    background-color: #a3a3a3; /* Light grey background */
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px; /* Optional: Rounded corners */
+}
+
+.form-control-sm {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.75rem;
+    border-radius: 0.2rem;
+}
+
+.button-container {
+    background-color: #f8f9fa;
+    border: 1px solid #ced4da;
+    margin-top: 10px;
+    padding: 10px;
+    text-align: right;
+    border-radius: 5px;
+}
